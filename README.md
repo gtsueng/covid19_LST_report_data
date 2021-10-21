@@ -1,0 +1,1 @@
+This repository contains parsed COVID-19 LST reports in json format.
